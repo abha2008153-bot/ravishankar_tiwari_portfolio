@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 910">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2c2b29"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="28%" r="48%">
+      <stop offset="0" stop-color="#b69355" stop-opacity=".33"/>
+      <stop offset="1" stop-color="#b69355" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="700" height="910" fill="url(#bg)"/>
+  <rect width="700" height="910" fill="url(#halo)"/>
+  <g fill="none" stroke="#d2b57b" stroke-width="2" opacity=".85">
+    <circle cx="350" cy="338" r="128"/>
+    <path d="M250 660c17-108 79-161 100-161s83 53 100 161"/>
+    <path d="M240 700h220"/>
+  </g>
+  <text x="350" y="370" fill="#fbf8f2" text-anchor="middle" font-family="Georgia, serif" font-size="82">RST</text>
+  <text x="350" y="770" fill="#fbf8f2" fill-opacity=".82" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="7">RAVI SHANKAR TIWARI</text>
+  <text x="350" y="805" fill="#d2b57b" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="8">ADVOCATE</text>
+</svg>

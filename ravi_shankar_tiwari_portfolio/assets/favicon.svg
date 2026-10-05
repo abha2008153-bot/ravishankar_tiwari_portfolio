@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="104" fill="#151515"/>
+  <rect x="18" y="18" width="476" height="476" rx="92" fill="none" stroke="#a78246" stroke-width="8"/>
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#d2b57b" stroke-opacity=".28" stroke-width="2"/>
+  <!-- balance scale -->
+  <g fill="none" stroke="#d2b57b" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 112v94"/>
+    <path d="M182 166h148"/>
+    <path d="M187 169l-44 83h88z"/>
+    <path d="M325 169l-44 83h88z"/>
+  </g>
+  <!-- monogram -->
+  <text x="256" y="372" text-anchor="middle" fill="#fffdf9" font-family="Georgia, 'Times New Roman', serif" font-size="118" letter-spacing="10">RT</text>
+  <path d="M186 397h140" stroke="#a78246" stroke-width="6" stroke-linecap="round"/>
+</svg>
