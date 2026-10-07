@@ -32,9 +32,3 @@ to:
 This is a plain HTML/CSS/JS website and can be deployed directly to GitHub Pages, Netlify, Vercel, or any standard web host.
 
 
-## Add Ravi Shankar Tiwari's photograph
-Place the real professional photograph at:
-
-`assets/ravi-shankar-tiwari.jpg`
-
-The website will automatically display that image. If the file is missing, the design falls back to the included placeholder so the page does not break.
